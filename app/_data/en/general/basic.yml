@@ -1,7 +1,7 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "GDG SunCoast"
+email: "members@scgtug.org"
+description: "GDG SunCoast is the Tampa Bay area chapter of the Google Developer Groups"
 enablePreloader: false
 
 # Head
@@ -13,8 +13,8 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 themeColor: "#03a9f4"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG SunCoast"
+organizerAlternateName: "Google Developer Group SunCoast"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -32,4 +32,3 @@ disqusShortName: "devfestua"
 # i18n
 languages:
   en: English
-  uk: Українська

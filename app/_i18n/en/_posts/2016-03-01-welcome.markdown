@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to the new site!"
+date:   2014-03-01 08:00:00
+isStaticPost: false
+---
+
+We're very excited to launch the new GDG SunCoast chapter website. Here's what you can expect to see on the site going forward:
+
+* **Event schedule and details**
+* **Slide Decks for presentations**
+* **More visibility for speakers**
+
+Hope you enjoy the new site!
+
+-- GDG SunCoast Organizers

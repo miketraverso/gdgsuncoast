@@ -1,8 +1,9 @@
-image: "hero.jpg"
-title: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+image: "tampabay.jpg"
+title: "<br><br><br><br><br><br><br>GDG SunCoast<br> <typeout>"
+eventDate: ""
+typeoutTextValues: '"", "I/O Extended", "DevFest 2016", "Study Jams", "Meetups"'
+typeoutFallback: ""
 buttons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://www.meetup.com/GDGSUNCOAST/", text: "Find Upcoming Events"}
+ # - {permalink: "/#tickets", text: "Follow Us"}
+ - {link: "https://plus.google.com/+ScgdgOrg/posts", text: "Follow Us"}

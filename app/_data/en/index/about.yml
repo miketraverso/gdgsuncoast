@@ -1,5 +1,6 @@
-title: "About GDG DevFest"
+title: "About GDG SunCoast"
 blocks:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Meetups", image: "devfest-2.jpg", text: "GDG SunCoast meets up at least once a month. We ask our members to prepare talks that can educate our chapter on some interesting aspect of developing within the Google ecosystem. Join us and learn about Android, Go, Wear, etc. " }
+ - {title: "I/O Extended", image: "io2014-1.jpg", text: "I/O is the biggest Google event of the year. Usually new devices, APIs, important updates are all announced at I/O. Since it's hard to get a ticket and expensive to go, join us for our yearly I/O Extended watch party events." }
+ - {title: "DevFests", image: "devfest-1.jpg", text: "Full-day of talks and workshops, to offer in-depth insights into developing for Android and other Google technology. This is the perfect time to come and learn something new or share something you think is important with the group." }
+ - {title: "Study Jams", image: "studyjam-1.png", text: "Study Jams are multi-day events where we cover a topic in lots of detail and then work together to practice coding for the topic. Our first Study Jam is going to cover beginning Android development." }

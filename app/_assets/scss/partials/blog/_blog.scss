@@ -18,7 +18,7 @@
     }
 }
 .post-header {
-    height: 20px;
+    height: 10px;
     margin-top: 20px;
     font-size: 14px;
     .published {
@@ -45,9 +45,17 @@
     }
     iframe, img {
         display: block;
-        margin: 16px 0;
+        max-width: 100%;
+        height: auto;
     }
 }
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 .page-navigation {
     margin-bottom: 40px;
     font-weight: $bold;
