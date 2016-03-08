@@ -1,15 +1,17 @@
 -
   group: "Top Sponsors"
   elements:
-    - {name: "NeuClix", description: "NeuClix", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "300px"}
-    - {name: "Traversoft", description: "Traversoft", link: "http://traversoft.com", imageUrl: "traversoft-logo.png", width: "300px"}
-    - {name: "ThingToBring", description: "ThingToBring Event Planning", link: "http://www.thingtobring.com", imageUrl: "thingtobring-logo.png", width: "300px"}
+    - {name: "Google", description: "Google", link: "https://www.google.com/about", imageUrl: "google.svg", width: "300px"}
+    - {name: "NeuClix", description: "NeuClix", link: "http://www.neuclix.com/", imageUrl: "neuclix.svg", width: "320px"}
+    - {name: "Traversoft", description: "Traversoft", link: "http://www.traversoft.com", imageUrl: "traversoft-logo.png", width: "320px"}
 -
   group: "Sponsors"
   elements:
-    - {name: "NeuClix", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "320px"}
-    - {name: "Traversoft", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "traversoft-logo.png", width: "320px"}
-    - {name: "ThingToBring", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "thingtobring-logo.png", width: "320px"}
+    - {name: "NeuClix", description: "NeuClix", link: "http://www.neuclix.com/", imageUrl: "neuclix.png", width: "320px"}
+    - {name: "Traversoft", description: "Traversoft", link: "http://www.traversoft.com", imageUrl: "traversoft-logo.png", width: "320px"}
+    - {name: "ThingToBring", description: "ThingToBring", link: "http://www.thingtobring.com", imageUrl: "thingtobring-logo.png", width: "320px"}
+    - {name: "yext", description: "yext", link: "http://www.yext.com", imageUrl: "yext.png", width: "220px"}
+    - {name: "Tampa Bay WaVE", description: "Tampa Bay WaVE", link: "http://www.tampabaywave.org", imageUrl: "TB_WaVE.png", width: "320px"}
 # -
 #   group: "With support of"
 #   elements:

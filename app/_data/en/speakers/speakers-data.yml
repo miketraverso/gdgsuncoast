@@ -31,25 +31,16 @@
     - {name: "site", link: "http://www.traversoft.com"}
 -
   id: 3
-  name: "Scott"
+  name: "Scott A."
   surname: "Thisse"
-  company: "Centripetal Fusion"
-  title: "Co-Organizer, Founder Centripetal Fusion"
-  bio: "<Need>"
+  company: "Centripetal Fusion LLC"
+  title: "Founder and Lead Developer"
   thumbnailUrl: ScottThisse.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    # - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 4
-  name: "Angela"
-  surname: "Don"
-  company: "<Need company>"
-  title: "UX/UI Designer"
-  bio: '<Need bio>'
-  rockstar: true
-  thumbnailUrl: AngelaDon.jpg
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ScottThisse"}
+    - {name: "github", link: "https://github.com/sathisse"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2825864/scottt"}
+    - {name: "site", link: "http://www.meetup.com/Tampa-Bay-Android-Developers-Group/"}
