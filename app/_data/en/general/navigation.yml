@@ -4,16 +4,12 @@ links:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- # - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/hackathon/", text: "Hackathon"}
- - {link: "https://plus.google.com/+ScgdgOrg", text: "Social" }
- # -
- #   subText: "Social"
- #   links:
- #    - {link: "https://plus.google.com/102444623953913144164", text: "+GDGLviv"}
- #    - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", text: "@GDGLviv"}
- #    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
+ -
+   subText: "Social"
+   links:
+    - {link: "https://plus.google.com/+ScgdgOrg", text: "+GDGLviv"}
+    - {link: "https://twitter.com/intent/user?screen_name=GDGSunCoast", text: "@GDGSunCoast"}
 bottomLinks:
- - {link: "http://goo.gl/forms/HXcQUylPzp", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/HeDDWzxqZX", text: "Become a speaker"}
 rightButtons:
- - {link: "http://goo.gl/forms/HXcQUylPzp", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/HeDDWzxqZX", text: "Become a speaker"}

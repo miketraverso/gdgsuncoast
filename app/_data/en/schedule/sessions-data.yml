@@ -17,7 +17,7 @@
   speakers: [3, 4]
   language: en
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: ""
 -
   id: 002
   title: "Beginning Android Development Part II"
@@ -26,8 +26,8 @@
   speakers: [3, 4]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: ""
+  video: ""
 -
   id: 003
   title: "Beginning Android Development Part I"
@@ -36,7 +36,7 @@
   speakers: [1, 2]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: ""
 -
   id: 004
   title: "Beginning Android Development Part II"
@@ -45,5 +45,5 @@
   speakers: [1, 2]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: ""
+  video: ""

@@ -14,7 +14,7 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/gdgsuncoast"
+baseurl: "/"
 url: "http://gdgsuncoast.github.io"
 permalink: '/blog/:title'
 
