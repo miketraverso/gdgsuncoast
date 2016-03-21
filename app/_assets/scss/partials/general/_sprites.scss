@@ -19,6 +19,14 @@
     fill: $icon-fill-color;
     transition: all .5s;
 }
+.icon-large {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    fill: $icon-fill-color;
+    transition: all .5s;
+}
 .icon-vk:hover {
     fill: #4c75a3;
 }

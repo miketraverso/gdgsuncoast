@@ -621,6 +621,6 @@ We reviewed an existing app that leveraged ListView to display data. We added th
   * RecyclerView.ItemAnimator to define animations of items.
   * RecyclerView.ItemDecorator to decorate the items.
 
-Then we went and finished our migration to RecyclerView by implementing the components listed above and changing our activity layout to swap out ListView for RecyclerView.
+Then we went and finished our migration to RecyclerView by implementing the components listed above and changing our activity layout to swap out ListView for RecyclerView. The project is located on [GitHub](https://github.com/miketraverso/ListViewToRecyclerView/). To look at the whole project using the list view you can find it [here](https://github.com/miketraverso/ListViewToRecyclerView/). Or if you're looking for the update it's on the feature/replace-list-view branch located [here](https://github.com/miketraverso/ListViewToRecyclerView/tree/feature/replace-list-view).
 
 I hope this helps you updating your project to RecyclerView.

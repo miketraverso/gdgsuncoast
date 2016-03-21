@@ -7,9 +7,10 @@ links:
  -
    subText: "Social"
    links:
-    - {link: "https://plus.google.com/+ScgdgOrg", text: "+GDGLviv"}
+    - {link: "https://plus.google.com/+ScgdgOrg", text: "+GDGSunCoast"}
     - {link: "https://twitter.com/intent/user?screen_name=GDGSunCoast", text: "@GDGSunCoast"}
 bottomLinks:
  - {link: "http://goo.gl/forms/HeDDWzxqZX", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry.385327315=GDG+Sun+Coast", text: "Take our Survey"}
 rightButtons:
  - {link: "http://goo.gl/forms/HeDDWzxqZX", text: "Become a speaker"}

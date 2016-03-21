@@ -1,10 +1,19 @@
 -
-  date: "2016-03-12"
+  date: "2016-02-17"
+  dateReadable: "February 17"
+  tracks:
+    - {title: "Replacing ListView with RecyclerView", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "7:30p",
+    	endTime: "08:30p",
+    	sessionIds: [005]
+    }
+-
+  date: "2016-03-19"
   dateReadable: "March 12"
   tracks:
-    - {title: "Study Jam: Beginning Android Part I", color: "#90be4e"}
-    # - {title: "Web & Cloud", color: "#03a9f4"}
-    # - {title: "Community", color: "#e91e63"}
+    - {title: "Study Jam: Beginning Android Part II", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:30a",
@@ -26,7 +35,7 @@
   date: "2016-04-23"
   dateReadable: "April 23"
   tracks:
-    - {title: "Study Jam: Beginning Android Part II", color: "#90be4e"}
+    - {title: "Study Jam: Beginning Android Part I", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:30a",

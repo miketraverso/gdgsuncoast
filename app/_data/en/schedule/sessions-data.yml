@@ -9,25 +9,25 @@
   title: "Lunch Break"
   place: "Dining room"
   service: true
+  video: ""
 -
   id: 001
   title: "Beginning Android Development Part I"
   description: "This is the first session of the Tampa based Beginning Android Development series. We'll start by getting everyone ready for the course and then begin to cover the material. During this session we'll be covering XML and how to use XML to create Android Views and ViewGroups. Next we'll get to programming our first Android app: a Greeting Card app that you'll build for someone special. After lunch we'll begin by covering how to handle button clicks, debug your app and how to create more complex layouts. We'll end the day by starting to develop our second Android app: a Basketball score keeping app. We'll also be on hand to help answer questions and help address any nasty bugs that you come across."
   subtype: studyjam
-  speakers: [3, 4]
+  speakers: [2, 3]
   language: en
   complexity: "Beginner"
-  video: ""
+  presentation: "https://docs.google.com/presentation/d/1_1mO5jx7bqLUpl7wM0fvxUNerwXVkeuDs6NEuIvNsqI/edit?usp=sharing"
 -
   id: 002
   title: "Beginning Android Development Part II"
   description: "This is the second session of the Tampa based Beginning Android Development series. We'll start by reviewing what we covered the week before and help answer any questions that arise from the homework. We'll then cover Object Oriented Programming principles, or OOP, program control flow, styles and themes and how to navigate to other apps from within your app. We'll also be giving away swag to those that attended both Study Jam sessions."
   subtype: studyjam
-  speakers: [3, 4]
+  speakers: [2, 3]
   language: en
   complexity: "Beginner"
-  presentation: ""
-  video: ""
+  presentation: "https://docs.google.com/presentation/d/1Gv1Zfj9Ck2RrucAWO4KK6Je2L8zkqK-vgQw00xBXKHY/edit?usp=sharing"
 -
   id: 003
   title: "Beginning Android Development Part I"
@@ -36,7 +36,7 @@
   speakers: [1, 2]
   language: en
   complexity: "Beginner"
-  presentation: ""
+  presentation: "https://docs.google.com/presentation/d/1_1mO5jx7bqLUpl7wM0fvxUNerwXVkeuDs6NEuIvNsqI/edit?usp=sharing"
 -
   id: 004
   title: "Beginning Android Development Part II"
@@ -45,5 +45,13 @@
   speakers: [1, 2]
   language: en
   complexity: "Beginner"
-  presentation: ""
-  video: ""
+  presentation: "https://docs.google.com/presentation/d/1Gv1Zfj9Ck2RrucAWO4KK6Je2L8zkqK-vgQw00xBXKHY/edit?usp=sharing"
+-
+  id: 005
+  title: "Replacing ListView with RecyclerView"
+  description: "Lots of Android apps have ListView's. In this session we will learn how to transition that old ListView component to the newer RecyclerView component. This will set us up to, in the next session, see how we can introduce animations into our table views."
+  subtype: monthly-meetup
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://docs.google.com/presentation/d/1V77yk8A7pmrXcBe_lfjafl1FGmVn-UevgEMQc-lkCI8/edit?usp=sharing"

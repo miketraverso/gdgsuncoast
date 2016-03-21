@@ -1,4 +1,3 @@
-languagesTitle: "Languages"
 socialLinks:
  - {link: "https://plus.google.com/+ScgdgOrg", icon: "google-plus"}
  - {link: "https://twitter.com/gdgsuncoast", icon: "twitter"}
@@ -7,8 +6,11 @@ blocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://developer.android.com/sdk/index.html", text: "Android Studio"}
+   - {link: "https://developers.google.com/startups/", text: "Startup Launchpad"}
+   - {link: "https://www.womentechmakers.com/", text: "Women Techmakers"}
+   - {link: "https://developers.googleblog.com/", text: "Google Developers Blog"}
  -
   title: "Contacts"
   links:
@@ -17,3 +19,5 @@ blocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry.385327315=GDG+Sun+Coast", text: "Take our Survey"}
+   - {link: "http://goo.gl/forms/HeDDWzxqZX", text: "Become a Speaker"}

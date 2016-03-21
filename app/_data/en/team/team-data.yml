@@ -42,23 +42,10 @@
     - {name: "site", link: "http://www.meetup.com/Tampa-Bay-Android-Developers-Group/"}
 -
   id: 4
-  name: "Angela"
-  surname: "Don"
-  company: "<Need company>"
-  title: "UX/UI Designer"
-  bio: '<Need bio>'
-  gdgTeam: true
-  thumbnailUrl: AngelaDon.jpg
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/"}
-    - {name: "twitter", link: "https://twitter.com/"}
-    - {name: "github", link: "https://github.com/"}
--
-  id: 5
   name: "Rhonda"
   surname: "Hodges"
   title: "Organizer"
-  thumbnailUrl: SteveHodges.png
+  thumbnailUrl: lady.jpg
   wtmTeam: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -66,3 +53,14 @@
     - {name: "google-plus", link: "https://plus.google.com/+SteveHodges"}
     - {name: "twitter", link: "https://twitter.com/neuclix"}
     - {name: "site", link: "http://NeuClix.com/"}
+-
+  id: 5
+  name: "Lisa"
+  surname: "Tinker"
+  company: 'Radiology Associates, West Pasco'
+  title: "PACS Administrator"
+  bio: 'Lisa has been working in the Medical Imaging field for quite 30+ years. Instrumental in implementing our first PACS system and subsequent upgrades. Lisa works on both the software and hardware side.'
+  wtmTeam: true
+  thumbnailUrl: lady.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lisa-tinker-b70b7341"}

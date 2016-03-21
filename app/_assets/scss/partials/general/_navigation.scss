@@ -145,6 +145,7 @@ nav {
             padding: 0;
         }
         a {
+            font-weight: 600;
             padding: 10px 20px;
             outline: 0;
             @media (max-width: 767px) {
@@ -175,7 +176,7 @@ nav {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: #e6e6e6;
+    fill: #ffffff;
     .top-header.after-scroll & {
         fill: #464646;
     }
@@ -185,7 +186,9 @@ nav {
     transform: translateY(22px);
     right: 45px;
     transition: $base-transition;
+    fill: white;
 }
+
 .bottom-navlinks {
     position: absolute;
     bottom: 26px;

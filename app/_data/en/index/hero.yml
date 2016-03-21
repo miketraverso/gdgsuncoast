@@ -3,7 +3,10 @@ title: "<br><br><br><br><br><br><br>GDG SunCoast<br> <typeout>"
 eventDate: ""
 typeoutTextValues: '"", "I/O Extended", "DevFest 2016", "Study Jams", "Meetups"'
 typeoutFallback: ""
+socialLinks:
+  - {link: "https://plus.google.com/+ScgdgOrg", name: "google-plus"}
+  - {link: "https://twitter.com/intent/user?screen_name=GDGSunCoast", name: "twitter"}
 buttons:
  - {link: "http://www.meetup.com/GDGSUNCOAST/", text: "Find Upcoming Events"}
  # - {permalink: "/#tickets", text: "Follow Us"}
- - {link: "https://plus.google.com/+ScgdgOrg/posts", text: "Follow Us"}
+ - {link: "https://docs.google.com/forms/d/17RK2nQWeV3wDpUOWjLvGrxRjkPByXqXZCvOv8W-gk8s/viewform?entry.385327315=GDG+Sun+Coast", text: "Take our Survey"}
