@@ -55,3 +55,12 @@
   language: en
   complexity: "Intermediate"
   presentation: "https://docs.google.com/presentation/d/1V77yk8A7pmrXcBe_lfjafl1FGmVn-UevgEMQc-lkCI8/edit?usp=sharing"
+-
+  id: 006
+  title: "How Butter Knife can simplify your Android code"
+  description: "Butter Knife is an Android library that allows for field and method binding for Android views. In this GDG SunCoast meet up we're going to take a look at how we can start to use Butter Knife to simplify our Android code."
+  subtype: monthly-meetup
+  speakers: [2]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://plus.google.com/events/c055gq04g6hu8rl19r2sc340n6k?authkey=CLOnotiCpKiRxQE"

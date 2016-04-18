@@ -1,0 +1,33 @@
+-
+  date: "2016-04-23"
+  dateReadable: "April 23"
+  tracks:
+    - {title: "Study Jam: Beginning Android Part I", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:30a",
+    	endTime: "04:30p",
+    	sessionIds: [003]
+    }
+-
+  date: "2016-04-28"
+  dateReadable: "April 28"
+  tracks:
+    - {title: "Monthly Meetup", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "08:00p",
+    	endTime: "09:00p",
+    	sessionIds: [006]
+    }
+-
+  date: "2016-04-30"
+  dateReadable: "April 30"
+  tracks:
+    - {title: "Study Jam: Beginning Android Part II", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:30a",
+    	endTime: "04:30p",
+    	sessionIds: [004]
+    }
