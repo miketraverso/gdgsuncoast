@@ -12,6 +12,7 @@
     - {name: "ThingToBring", description: "ThingToBring", link: "http://www.thingtobring.com", imageUrl: "thingtobring-logo.png", width: "320px"}
     - {name: "yext", description: "yext", link: "http://www.yext.com", imageUrl: "yext.png", width: "220px"}
     - {name: "Tampa Bay WaVE", description: "Tampa Bay WaVE", link: "http://www.tampabaywave.org", imageUrl: "TB_WaVE.png", width: "320px"}
+    - {name: "SMARTstart Business Incubator", description: "SMARTstart Business Incubator", link: "http://pascoedc.com/incubator", imageUrl: "smartstart.png", width: "320px"}
 # -
 #   group: "With support of"
 #   elements:
