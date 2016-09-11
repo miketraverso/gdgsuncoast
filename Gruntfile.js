@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: '',
-            git_repo: 'miketraverso@github.com:miketraverso/gdgsuncoast.git',
+            git_repo: 'miketraverso@github.com:gdgsuncoast.git',
             branch: 'gh-pages'
         },
         watch: {
